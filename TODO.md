@@ -1,7 +1,7 @@
 ## Streets elements
  - [x] Signs [/components/signs]
  - [ ] Cat(s) [/components/cats]
- - [ ] Paper lights
+ - [x] Paper lanterns [/components/lanters]
  - [ ] Ramen cart
  - [ ] Street lights
  - [ ] Windows
