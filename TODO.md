@@ -2,7 +2,9 @@
  - [x] Signs [/components/signs]
  - [ ] Cat(s) [/components/cats]
  - [x] Paper lanterns [/components/lanters]
- - [x] Ramen cart
+ - [x] Ramen cart [/components/ramenCart]
+ - [x] Katanas [/components/katanas]
+ - [x] Samurais [/components/samurais]
  - [ ] Street lights
  - [ ] Windows
  - [ ] Doors
